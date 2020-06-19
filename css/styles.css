@@ -10580,5 +10580,21 @@ small {
 #darkcolor {
   color: black;
   font-weight: bold;
-  text-decoration: underline;
+}
+
+#storefront {
+  margin-top: 40px;
+}
+
+#goldbadge {
+  margin-top: 20px;
+}
+
+#bluebadge {
+  margin-top: 80px;
+  margin-right: 20px;
+}
+
+#projectintro {
+  border: 2px solid black;
 }
