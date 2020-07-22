@@ -10392,7 +10392,10 @@ color: white;
 
 #about {
   background-image: url("../portfolioimg/riccardo-valeriana-Bwf92EiORSI-unsplash\ \(2\).jpg");
-  
+}
+
+#about p{
+  margin-top: 1rem;
 }
 
 .text-white-50 {
