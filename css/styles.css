@@ -10366,7 +10366,8 @@ body {
 justify-content: space-evenly;
 flex-wrap: nowrap;
 align-items: center;
-color: white;
+color: whitesmoke;
+
 }
 
 .mepart2 {
@@ -10387,6 +10388,7 @@ color: white;
   display: inline-block;
   padding: 0 1rem 0 1rem;
   margin-bottom: 1rem;
+  border: 4px solid rgba(40, 88, 97, 0.95);
 
 }
 
@@ -10600,4 +10602,12 @@ small {
 
 #projectintro {
   border: 2px solid black;
+}
+
+.resume {
+font-size: 5rem;
+font-weight: bold;
+color: rgba(40, 88, 97, 0.95);
+border-bottom: 4px solid whitesmoke;
+border-top: 4px solid whitesmoke;
 }
